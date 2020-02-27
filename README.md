@@ -1,2 +1,2 @@
 # Reader
-Text viewer on WinAPI
+User Interface Development project
