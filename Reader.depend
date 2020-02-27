@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1582380431 source:c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	"textstruct.h"
+	"menu.h"
+	"servicestruct.h"
+
+1576240278 c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\textstruct.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"windowstruct.h"
+
+1580381394 c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\windowstruct.h
+
+1578650598 c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\menu.h
+	<windows.h>
+	"windowstruct.h"
+	"servicestruct.h"
+
+1580218931 c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\servicestruct.h
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	<math.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"menu.h"
+
+1578685031 source:c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\menu.cpp
+	"menu.h"
+
+1578684056 source:c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\res.rc
+	"menu.h"
+
+1581778424 source:c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\servicestruct.cpp
+	"servicestruct.h"
+	<limits.h>
+
+1580224250 source:c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\textstruct.cpp
+	"textstruct.h"
+	"servicestruct.h"
+
