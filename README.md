@@ -18,8 +18,9 @@ Run `bin/Release/Reader.exe` file.
 ### Movements
 
 Use the following keys:
-  - `Arrow keys` -- to move through the text;
-  - `Home` and `End` -- to move to the beginning and end of the line, respectively.
+  - <kbd>Up</kbd>, <kbd>Down</kbd>, <kbd>Left</kbd>, <kbd>Right</kbd> -- to move through the text;
+  - <kbd>Home</kbd> and <kbd>End</kbd> -- to move to the beginning and end of the line, respectively;
+  - <kbd>Page Up</kbd> and <kbd>Page Down</kbd> -- to scroll the page up and down respectively.
 
 ### Menu bar
 
@@ -33,6 +34,10 @@ The following menu items are present:
     - [x] `Non-layout mode` -- disables line wrapping (checked by default).
   - `Help`:
     - `About` -- shows information about the program.
+
+### Test
+
+To test this program, you can try to view the files from the directory "test".
 
 ## License
 
