@@ -2,21 +2,20 @@
 
 MYICON ICON "icon.ico"
 
-MYMENU MENU{
-    POPUP "File"{
-        MENUITEM "Open...", IDM_OPEN
-        MENUITEM "Close", IDM_CLOSE
-        MENUITEM SEPARATOR
-        MENUITEM "Quit", IDM_QUIT
-    }
+MYMENU MENU {
+  POPUP "File" {
+    MENUITEM "Open...", IDM_OPEN
+    MENUITEM "Close", IDM_CLOSE
+    MENUITEM SEPARATOR
+    MENUITEM "Quit", IDM_QUIT
+  }
 
-    POPUP "View"{
-        MENUITEM "Layout mode", IDM_LAYOUT
-        MENUITEM "Non-layout mode", IDM_NON_LAYOUT
-    }
+  POPUP "View" {
+    MENUITEM "Layout mode", IDM_LAYOUT
+    MENUITEM "Non-layout mode", IDM_NON_LAYOUT
+  }
 
-    POPUP "Help"{
-        MENUITEM "About...", IDM_ABOUT
-    }
+  POPUP "Help" {
+    MENUITEM "About...", IDM_ABOUT
+  }
 }
-
