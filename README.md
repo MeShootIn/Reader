@@ -6,7 +6,7 @@ Initially, it was my course work on the subject "User Interface Development", bu
 
 ## ⚡ Requirements
 
-- Windows 95 or higher.
+Windows 95 or higher.
 
 ## 📦 Installation
 
